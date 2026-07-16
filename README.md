@@ -57,8 +57,8 @@ Right now, that means spending time on agentic analytics, production-minded RAG,
 ## 📊 In the open
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=M0rtalPhe0nix&show_icons=true&hide_border=true&bg_color=00000000&title_color=0E7490&icon_color=0E7490&text_color=6B7280" alt="Mohamed's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0rtalPhe0nix&layout=compact&hide_border=true&bg_color=00000000&title_color=0E7490&text_color=6B7280" alt="Mohamed's most-used public languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M0rtalPhe0nix&amp;theme=github_dark" alt="Mohamed's GitHub statistics" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M0rtalPhe0nix&amp;theme=github_dark" alt="Languages used across Mohamed's public repositories" />
 </p>
 
 ---
