@@ -1,3 +1,5 @@
+<!-- GitHub profile README for M0rtalPhe0nix -->
+
 <img src="./assets/ai-systems-banner.png" alt="Abstract production AI system with connected agents, data pipelines, and cloud infrastructure" width="100%" />
 
 <h1 align="center">Mohamed Omara</h1>
